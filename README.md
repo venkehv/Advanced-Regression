@@ -1,5 +1,5 @@
 # Project Name
-> Predicting the price of a house in Australian market for Surprise Housing company. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.
+Predicting the price of a house in Australian market for Surprise Housing company. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.
 
 
 ## Conclusions
